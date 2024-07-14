@@ -5,20 +5,20 @@ This is a lab I completed during my AWS re/Start training, where I explored the 
 
 ## Connect to CloudShell and experiment
 
-First of all, I connected to CloudeShell from the AWS Management Console. I verified that the AWS CLI is installed, and I ran a command to see all my S3 buckets.
+First of all, I connect to CloudShell from the AWS Management Console. I verify that the AWS CLI is installed, and I run a command to see all my S3 buckets.
 
 ![Screenshot (223)](https://github.com/user-attachments/assets/08e497f1-df93-404d-87fc-8368197ea1d9)
 
-Then, I split the terminal window into 2 columns, and I test the ability to run SDK for Python code. I uploaded a Python file and ran the cat command to view the contents of the file.
+Then, I split the terminal window into 2 columns, and I test the ability to run SDK for Python code. I upload a Python file and run the cat command to view the contents of the file.
 
 ![Screenshot (224)](https://github.com/user-attachments/assets/4c68564a-2f8c-4834-85b7-7600807f5c00)
 ![Screenshot (225)](https://github.com/user-attachments/assets/e83c1dc2-37e6-4bde-ad48-20fd6ea01215)
 
-After that, I ran the SDK for Python code and the name of the S3 bucket was returned.
+After that, I run the SDK for Python code and the name of the S3 bucket is returned.
 
 ![Screenshot (226)](https://github.com/user-attachments/assets/e9cfa169-56a2-466e-9a4e-a74b512beb86)
 
-I have now used two different programmatic ways to retrieve a list of the S3 buckets that exist in the AWS account. To conclude, I copied the Python file into my S3 bucket.
+I have now used two different programmatic ways to retrieve a list of the S3 buckets that exist in the AWS account. To conclude, I copy the Python file into my S3 bucket.
 
 ![Screenshot (228)](https://github.com/user-attachments/assets/cbe5d3b4-b762-4550-b099-a78526e3bc77)
 
